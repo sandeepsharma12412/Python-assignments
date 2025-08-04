@@ -1,0 +1,20 @@
+try:
+    file1 = open('output.txt','w')
+    text=input("Enter text to write to the file:")
+    file1.write(text)
+    print("Data successfully written to output.txt")
+    file1.close()
+    file2 = open('output.txt','a')
+    text2 = input("Enter Addition text to append:")
+    file2.write('\n'+text2)
+    print("Data successfully appended")
+    file2.close()
+    file3 = open('output.txt','r')
+    line1 = file3.readline()
+    line2 = file3.readline()
+    print("Final content of output.txt:\n", line1 +line2)
+    file3.close()
+except FileNotFoundError:
+    print("file not found")
+finally:
+    print("file closed")
