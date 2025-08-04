@@ -61,4 +61,12 @@ o   Sine of the number (in radians)
 3.   Displays the calculated results.
 **Submission** file name Assignment3-task2.py
 
+**#ASSIGNMENT 4** 
+Task 1: Read a File and Handle Errors 
+Problem Statement:  Write a Python program that:
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+
+**Submission** file name Assignment4-task1.py
 
