@@ -38,7 +38,8 @@ Problem Statement: Write a Python program that:
 3.   Displays the final sum.
 **Submission** file name Assignment2-task1.py
 
-**#ASSIGNMENT 3** 
+
+# ASSIGNMENT-3
 **Module 4**: Functions & Modules in Python 
 
 **Task 1: Calculate Factorial Using a Function **
@@ -61,7 +62,8 @@ o   Sine of the number (in radians)
 3.   Displays the calculated results.
 **Submission** file name Assignment3-task2.py
 
-**#ASSIGNMENT 4** 
+
+# ASSIGNMENT-4 
 
 **Task 1: Read a File and Handle Errors **
 Problem Statement:  Write a Python program that:
@@ -79,5 +81,25 @@ Problem Statement: Write a Python program that:
 3.   Reads and displays the final content of the file.
 
 **Submission** file name Assignment4-task2.py
+
+
+# ASSIGNMENT-5
+**Module 6: Data Structures and Strings in Python**
+
+**Task 1: Create a Dictionary of Student Mark**s
+
+Problem Statement: Write a Python program that:
+1.   Creates a dictionary where student names are keys and their marks are values.
+2.   Asks the user to input a student's name.
+3.   Retrieves and displays the corresponding marks.
+4.   If the student’s name is not found, display an appropriate message.
+
+**Task 2: Demonstrate List Slicing** 
+Problem Statement: Write a Python program that:
+1.   Creates a list of numbers from 1 to 10.
+2.   Extracts the first five elements from the list.
+3.   Reverses these extracted elements.
+4.   Prints both the extracted list and the reversed list
+
 
 
